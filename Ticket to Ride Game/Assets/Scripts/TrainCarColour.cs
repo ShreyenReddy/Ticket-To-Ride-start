@@ -28,7 +28,7 @@ public class TrainCarColour : MonoBehaviour
     {
         while (true)
         {
-            yield return new WaitForSecondsRealtime(5);
+            yield return new WaitForSecondsRealtime(10);
             RedTC.SetActive(false);
             BlueTC.SetActive(false);
             GreenTC.SetActive(false);
