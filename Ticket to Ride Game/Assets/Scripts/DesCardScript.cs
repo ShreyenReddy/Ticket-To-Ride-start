@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DestinationCardManager : MonoBehaviour
+public class DesCardScript : MonoBehaviour
 {
     public PlayerScore playerScore;
     public int AmountToAdd;
